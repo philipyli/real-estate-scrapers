@@ -10,6 +10,7 @@ Assorted scripts to scrape pricing data from real estate sites, perform address 
 * CoreLogic
 * Zillow
 * Trulia
+* Private vendors
 
 
 ## Built With
