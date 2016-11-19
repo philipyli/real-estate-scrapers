@@ -5,11 +5,14 @@ Assorted scripts to scrape pricing data from real estate sites, perform address 
 
 ## Data Integration
 
-* MLS data 
-* Trulia for agent photos
+* County records (CD-ROMs)
+* MLS 
+* CoreLogic
+* Zillow
+* Trulia
 
 
 ## Built With
 
 * Javascript, Python, R
-
+* Selenium (browser driver) 
