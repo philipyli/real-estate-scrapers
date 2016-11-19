@@ -5,7 +5,7 @@ Assorted scripts to scrape pricing data from real estate sites, perform address 
 
 ## Data Integration
 
-* County records (websites & CD-ROMs)
+* County records (websites & archive DVD-ROMs)
 * MLS
 * CoreLogic
 * Zillow
